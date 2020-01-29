@@ -1,0 +1,112 @@
+body {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.h1, .display-4 {
+  color: purple;
+  /* font-weight: 300; */
+  font-family: 'Bowlby One SC', cursive;
+}
+
+h1, h2{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+h5 {
+  font-family: 'Kanit', sans-serif;
+}
+
+img {
+  height: 320px;
+}
+
+h1.section-title {
+  border: none;
+  margin-top: 20px;
+}
+
+.section-title {
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+  text-align: center;
+  padding: 15px auto;
+  margin: 0 0 20px;
+  text-transform: uppercase;
+}
+
+.progress {
+  height: 15px;
+}
+
+.progress-bar {
+  width: 20%;
+}
+
+.bg-kellogg {
+  background-color: purple;
+}
+
+.jumbotron {
+  background-attachment: fixed;
+  background-image: url(belize_jumbo1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.navbar {
+  border-width: 0px;
+  -webkit-box-shadow: 0px 0px;
+  box-shadow: 0px 0px;
+  background-color: rgba(0, 0, 0, 0.034);
+  }
+
+  .buttoninfo {
+    background-color: gray
+  }
+
+  .lead {
+    font-style: italic;
+  }
+
+ .carousel {
+   align-content: center;
+   margin-left: 16.67%;
+ }
+
+ .carousel-caption {
+   color: white
+ }
+
+ .nav-link {
+   color: slategray
+ }
+
+ .form-title {
+   color: white
+ }
+
+ .contactpage {
+   background-image: url(form2.jpg);
+   background-size: cover;
+   margin-top: none
+
+ }
+
+ .formlabel {
+   color: white;
+   font-weight: bold;
+    }
+
+ .submit {
+   margin-bottom: 15px;
+ }
+
+ .prices {
+   margin-left: 20%;
+ }
+
+ .p1 {
+   margin-right: 20%;
+   font-style: italic;
+ }
